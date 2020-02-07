@@ -1,0 +1,2 @@
+# notVeryLogicalProlog
+Prolog programs
